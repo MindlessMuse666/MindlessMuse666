@@ -10,9 +10,7 @@
 
 - 🎨 Ищу работу на вакансию Junior Unity Developer   
 
-- 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mindless_muse) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com)
-
-<br/>  
+- 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mindless_muse) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com) 
 
 ### Технологии:
 <div align="left">  
