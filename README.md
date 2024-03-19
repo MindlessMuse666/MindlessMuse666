@@ -11,16 +11,16 @@
 <br/>  
 
 ### Технологии:
-- C#   ![C#](https://profilinator.rishav.dev/skills-assets/csharp-original.svg)
-- Unity   ![Unity](https://profilinator.rishav.dev/skills-assets/unity.png)
-- Git   ![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)
-- .Net Core   ![.Net Core](https://profilinator.rishav.dev/skills-assets/dotnetcore.png)
+- ![C#](https://profilinator.rishav.dev/skills-assets/csharp-original.svg)
+- ![Unity](https://profilinator.rishav.dev/skills-assets/unity.png)
+- ![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)
+- ![.Net Core](https://profilinator.rishav.dev/skills-assets/dotnetcore.png)
 
 ### Инструменты:
-- Photoshop   ![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg)
-- Illustrator   ![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg)
-- Premiere Pro   ![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png)
-- After Effects   ![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png)
+- ![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg)
+- ![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg)
+- ![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png)
+- ![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png)
 
 <br/>  
 
