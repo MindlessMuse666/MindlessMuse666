@@ -36,9 +36,10 @@ Backend-Разработчик / Разработчик игр
 
 </td><td valign="top" width="33%">
 
-### СУБД:  
+### СУБД:
 <div align="left">  
-<a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank"><img style="margin: 10px" src="https://softmap.ru/upload/iblock/869/8690dc718ca8d996c4de8aa4618fd921.jpg" alt="MS_SQL_Server" height="50" /></a> 
+<a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank"><img style="margin: 10px" src="https://softmap.ru/upload/iblock/869/8690dc718ca8d996c4de8aa4618fd921.jpg" alt="MS_SQL_Server" height="50" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/a0/f8/78/a0f878f4a9e3e2851957042d5e819288.jpg" alt="SQLite" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
