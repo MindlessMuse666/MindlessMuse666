@@ -8,8 +8,8 @@ Fullstack-Разработчик / Разработчик игр
 
 - 👨‍💻 Занимаюсь Fullstack-разработкой Web и Desktop приложений
 - 🍒 Имею навыки работы с СУБД: PostgreSQL, MS SQL Server, MySQL и MongoDB
-- 🤖 Создаю Telegram-Ботов
 - 💡 Изучаю фреймворки и библиотеки на C#, Python и JavaScript
+- 🤖 Создаю Telegram-Ботов
 - 🎨 В свободное время создаю игры на Godot и Unity, занимаюсь написанием музыки и саунд-дизайном
 - 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mindless_muse) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com) 
 
