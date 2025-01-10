@@ -7,10 +7,15 @@ Fullstack-Разработчик / Разработчик игр
 <br/>
 
 - 👨‍💻 Занимаюсь Fullstack-разработкой Web и Desktop приложений
+
 - 🍒 Имею навыки работы с СУБД: PostgreSQL, MS SQL Server, MySQL и MongoDB
+
 - 💡 Изучаю фреймворки и библиотеки на C#, Python и JavaScript
+
 - 🤖 Создаю Telegram-Ботов
+
 - 🎨 В свободное время создаю игры на Godot и Unity, занимаюсь написанием музыки и саунд-дизайном
+
 - 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mindless_muse) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com) 
 
 <br/>
@@ -67,7 +72,10 @@ Fullstack-Разработчик / Разработчик игр
   <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity Engine" height="55" /></a>  
   <!-- Git -->
   <a href="https://git-scm.com/doc" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></a> 
+  <!-- Markdown -->
+  <a href="https://www.markdownguide.org/basic-syntax" target="_blank"><img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5d/0f/94/5d0f9492-b1fe-08de-9861-ff963e663625/AppIcon-0-85-220-4-2x.png/1200x630bb.png" alt="Markdown" height="55" /></a> 
 </div>
+
 
 </td><td valign="top" width="33%">
 
