@@ -107,7 +107,9 @@ Fullstack-разработчик / Системный аналитик
   <!-- Qt Designer -->
   <a href="https://doc.qt.io/qt-6.7/qtdesigner-index.html" target="_blank"><img style="margin: 10px" src="https://static.tildacdn.com/tild3766-3332-4438-b434-356232643133/787286.png" alt="Qt Designer" height="55" /></a>
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></a>
+  <!-- Mermaid.js -->
+  <a href="https://mermaid.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/57169982?v=4" alt="Mermaid.js" height="55" /></a>
 </div>
 </td><td valign="top" width="33%">
 
