@@ -1,26 +1,28 @@
-Приветствую![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Владислав! 👾
+👾 Приветствую, меня зовут Влад! 👾 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hello-image" height="10%" />
 ---
 
-Fullstack-Разработчик / Разработчик игр
+Fullstack-разработчик / Системный аналитик
 ---
 
 <br/>
 
-- 👨‍💻 Занимаюсь Fullstack-разработкой Web и Desktop приложений
+- 👨‍💻 Разрабатываю Fullstack Web-приложений.
 
-- 🍒 Имею навыки работы с СУБД: PostgreSQL, MS SQL Server, MySQL и MongoDB
+- 💼 Занимаюсь системным анализом бизнес-проектов
 
-- 💡 Изучаю фреймворки и библиотеки на C#, Python и JavaScript
+- 🐳 Практикуюсь в проектной архитектуре и деплое 
 
-- 🤖 Создаю Telegram-Ботов
+- 💡 Изучаю фреймворки: Django, NestJS x NextJS, React 
 
-- 🎨 В свободное время создаю игры на Godot и Unity, занимаюсь написанием музыки и саунд-дизайном
+- 🍒 Работаю с СУБД: PostgreSQL, MS SQL SERVER, MySQL и MongoDB
+
+- 🎨 В свободное время создаю игры (Godot, Unity), Telegram-ботов и пишу музыку
 
 - 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mindless_muse) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com) 
 
 <br/>
 
-## Языки программирования:
+## 🧩 Языки программирования
 <div align="left">
   <!-- C-sharp -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="55" /></a> 
@@ -33,11 +35,11 @@ Fullstack-Разработчик / Разработчик игр
   <!-- Kotlin -->
   <a href="https://kotlinlang.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="55" /></a>
 </div>
-
 </td><td valign="top" width="33%">
 
+<br/>
 
-## Фреймворки:
+## 🏗️ Фреймворки
 <div align="left">
   <!-- Django -->
   <a href="https://docs.djangoproject.com" target="_blank"><img style="margin: 10px" src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/e2b/17a/a46/e2b17aa46f830f061612b96d0af48e3b.png" alt="Django" height="55" /></a>
@@ -52,11 +54,11 @@ Fullstack-Разработчик / Разработчик игр
   <!-- Windows Forms --> 
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms" target="_blank"><img style="margin: 10px" src="https://habrastorage.org/web/991/e95/7c9/991e957c9dba4f71b82883042d6da383.jpg" alt="Windows Forms" height="55" /></a>
 </div>
-
 </td><td valign="top" width="33%">
 
+<br/>
 
-## Технологии:
+## ⚙️ Технологии
 <div align="left">
   <!-- .Net Core -->
   <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="55" /></a>
@@ -75,12 +77,11 @@ Fullstack-Разработчик / Разработчик игр
   <!-- Markdown -->
   <a href="https://www.markdownguide.org/basic-syntax" target="_blank"><img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5d/0f/94/5d0f9492-b1fe-08de-9861-ff963e663625/AppIcon-0-85-220-4-2x.png/1200x630bb.png" alt="Markdown" height="55" /></a> 
 </div>
-
-
 </td><td valign="top" width="33%">
 
+<br/>
 
-## СУБД:
+## 🗄️ СУБД
 <div align="left">
   <!-- MS SQL Server -->
   <a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank"><img style="margin: 10px" src="https://softmap.ru/upload/iblock/869/8690dc718ca8d996c4de8aa4618fd921.jpg" alt="MS SQL Server" height="55" /></a>
@@ -93,11 +94,11 @@ Fullstack-Разработчик / Разработчик игр
   <!-- MongoDB -->
   <a href="https://www.mongodb.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="55" /></a>
 </div>
-
 </td><td valign="top" width="33%">
 
+<br/>
 
-## Инструменты:
+## 🛠️ Инструменты
 <div align="left">
   <!-- Photoshop -->
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="55" /></a>  
@@ -108,15 +109,15 @@ Fullstack-Разработчик / Разработчик игр
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
 <br/>
-
+<br/>
 
 ## 💻 Codewars:
 ![codewars](https://www.codewars.com/users/MindlessMuse666/badges/large)
 
+<br/>
 
-## GitHub статистика:
+## 🥞 GitHub статистика:
 <a href="https://github.com/MindlessMuse666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindlessMuse666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Использование языков программирования" /></a>
