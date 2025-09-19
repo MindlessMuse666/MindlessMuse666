@@ -12,8 +12,6 @@
 
 - 🐳 Практикуюсь в проектной архитектуре и деплое 
 
-- 🍒 Работаю с СУБД: PostgreSQL, MS SQL SERVER, SQLite и Redis
-
 - 🎨 В свободное время создаю игры (Godot, Unity) и пишу музыку
 
 - 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladislav_bed) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com) 
