@@ -1,123 +1,158 @@
-👾 Приветствую, меня зовут Влад! 👾 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hello-image" height="10%" />
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=%F0%9F%91%BE+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%BB%D0%B0%D0%B4!+%F0%9F%91%BE" alt="Привет, я Влад!" />
+</p>
 
-Системный аналитик / Fullstack-разработчик
----
+<p align="center">
+  <img src="./щебень.jpg" alt="щебень.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1500&color=FF5733&background=0D1117&center=true&vCenter=true&width=800&lines=%F0%9F%94%8D+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%7C+Fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%9A%80+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8F%97%EF%B8%8F+%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%26+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9;%F0%9F%8E%AE+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%B8%D0%B3%D1%80%D1%8B+%26+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83" alt="Ключевые компетенции" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2"><b>💼 Обо мне</b></td>
+  </tr>
+  <tr>
+    <td>👨‍💻</td>
+    <td>Web-разработчик (fullstack)</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td>Работаю в системной аналитике</td>
+  </tr>
+  <tr>
+    <td>🐳</td>
+    <td>Практикую архитектуру ПО</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td>Создаю игры, пишу музыку</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=DAF7A6&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%92%BB+%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="Языки" />
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#"/></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></td>
+    <td><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></td>
+    <td><img src="https://b2field.com/wp-content/uploads/2019/05/integrations-1c-header-img_ru.png" height="48" alt="1C" style="vertical-align: middle;" /></td>
+  </tr>
+</table>
 
 <br/>
 
-- 💼 Занимаюсь бизнес- и системным анализом
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=C70039&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%8F%97%EF%B8%8F+%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B8" alt="Фреймворки" />
+</p>
 
-- 👨‍💻 Разрабатываю web-приложения
-
-- 🐳 Практикуюсь в проектной архитектуре и деплое 
-
-- 🎨 В свободное время создаю игры (Godot, Unity) и пишу музыку
-
-- 🍂 Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-vladislavbedin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladislav_bed) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mindlessmuse.666@gmail.com) 
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/></td>
+    <td><img src="https://skillicons.dev/icons?i=qt" height="48" alt="Qt"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js"/></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET"/></td>
+  </tr>
+</table>
 
 <br/>
 
-## 💻 Языки программирования
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&background=0D1117&center=true&vCenter=true&width=300&lines=%E2%9A%99%EF%B8%8F+%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" alt="Технологии" />
+</p>
 
-<div align="left">
-  <!-- C-sharp -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="55" /></a> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="55" /></a>
-  <!-- Golang -->
-  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/61ba375c933b7401a10c1b16/be38389e-3f69-4547-b459-0aaa97760f9e/go-logo-blue+1.png?format=2500w" alt="Golang" height="55" /></a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://miladfathy.gallerycdn.vsassets.io/extensions/miladfathy/js-snippet/0.0.3/1620337479564/Microsoft.VisualStudio.Services.Icons.Default" alt="JavaScript" height="55" /></a>
-  <!-- 1C -->
-  <a href="https://1c.ru" target="_blank"><img style="margin: 10px" src="https://b2field.com/wp-content/uploads/2019/05/integrations-1c-header-img_ru.png" alt="1C" height="55" /></a>
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></td>
+    <td><img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/></td>
+    <td><img src="https://skillicons.dev/icons?i=godot" height="48" alt="Godot"/></td>
+    <td><img src="https://skillicons.dev/icons?i=unity" height="48" alt="Unity"/></td>
+    <td><img src="https://skillicons.dev/icons?i=kafka" height="48" alt="Kafka"/></td>
+    <td><img src="https://skillicons.dev/icons?i=rabbitmq" height="48" alt="RabbitMQ"/></td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF00FF&background=0D1117&center=true&vCenter=true&width=360&lines=%F0%9F%97%84%EF%B8%8F+%D0%A1%D0%A3%D0%91%D0%94+%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" alt="СУБД и инструменты" />
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite"/></td>
+    <td><img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/></td>
+    <td><img src="https://github.com/user-attachments/assets/562632a1-a9e4-44b7-b0d6-d38db3923390" height="48" alt="PlantUML" style="vertical-align: middle;" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/57169982?v=4" height="48" alt="Mermaid" style="vertical-align: middle;" /></td>
+    <td><img src="https://static.tildacdn.com/tild3766-3332-4438-b434-356232643133/787286.png" height="48" alt="Qt Designer" style="vertical-align: middle;" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8A2BE2&background=0D1117&center=true&vCenter=true&width=320&lines=%F0%9F%93%8A+GitHub+%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="Статистика" />
+</p>
+
+<table align="center">
+  <tr>
+  <td align="center"><b>📈 Общая стата</b></td>
+  <td align="center"><b>🏆 Языки в репо</b></td>
+</tr>
+<tr>
+  <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=MindlessMuse666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="Общая статистика" /></td>
+  <td><img height="180" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindlessMuse666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10&title_color=58A6FF&text_color=FFFFFF&card_width=450" alt="Языки в репозиториях" /></td>
+</tr>
+  <tr>
+    <td align="center" colspan="2"><b>📊 Моя активность</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MindlessMuse666&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&radius=10&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" alt="График активности" /></td>
+  </tr>
+  <tr>
+  <td align="center"><b>🔥 Стрик</b></td>
+  <td align="center" style="background-color: #0D1117; border-radius: 10px;">
+    <b>🏆 Трофеи</b>
+  </td>
+</tr>
+<tr>
+  <td><img src="https://streak-stats.demolab.com?user=MindlessMuse666&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=ru" alt="GitHub Streak" /></td>
+  <td style="background-color: #0D1117; border-radius: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=MindlessMuse666&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Трофеи" />
+  </td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MindlessMuse666&style=flat-square&color=58A6FF" alt="Счётчик просмотров" height="36" />
+  <br/>
+  <i><sub>Спасибо, что заглянул! ⭐</sub></i>
 </div>
-</td><td valign="top" width="33%">
-
-<br/>
-
-## 🏗️ Фреймворки
-
-<div align="left">
-  <!-- Django -->
-  <a href="https://docs.djangoproject.com" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" alt="Django" height="55" /></a>
-  <!-- PyQt6 -->
-  <a href="https://doc.qt.io/qtforpython-6" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Qt-Framework.svg" alt="PyQt6" height="55" /></a>
-  <!-- VueJS -->
-  <a href="https://vuejs.org" target="_blank"><img style="margin: 10px" src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="VueJS" height="55" /></a>
-  <!-- NextJS -->
-  <a href="https://nextjs.org/docs" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="NextJS" height="55" /></a>
-  <!-- Entity Framework Core -->
-  <a href="https://learn.microsoft.com/en-us/ef/core" target="_blank"><img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=0a90be9c4094392bf2bb2220078a4205_l-4768960-images-thumbs&n=13" alt="Entity Framework Core" height="55" /></a>
-</div>
-</td><td valign="top" width="33%">
-
-<br/>
-
-## ⚙️ Технологии
-
-<div align="left">
-  <!-- Docker -->
-  <a href="https://docs.docker.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" height="55" /></a>
-  <!-- Git -->
-  <a href="https://git-scm.com/doc" target="_blank"><img style="margin: 10px" src="https://github.com/rishavanand/github-profilinator/blob/master/static/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></a> 
-  <!-- Markdown -->
-  <a href="https://www.markdownguide.org/basic-syntax" target="_blank"><img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5d/0f/94/5d0f9492-b1fe-08de-9861-ff963e663625/AppIcon-0-85-220-4-2x.png/1200x630bb.png" alt="Markdown" height="55" /></a> 
-  <!-- HTML5 -->
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" /></a>  
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>
-  <!-- Godot Engine (GDScript) -->
-  <a href="https://godotengine.org" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/daily-now/image/upload/s--ZTW5R_kJ--/f_auto/v1727120006/squads/6da83cbf-4fde-4c81-b91a-f25c050e1370" alt="Godot Engine (GDScript)" height="55" /></a>
-  <!-- Unity -->
-  <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity Engine" height="55" /></a>  
-</div>
-</td><td valign="top" width="33%">
-
-<br/>
-
-## 🗄️ СУБД
-
-<div align="left">
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank"><img style="margin: 10px" src="https://github.com/rishavanand/github-profilinator/blob/master/static/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="55" /></a>
-  <!-- MS SQL SERVER -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" alt="MS SQL SERVER" height="55" /></a>
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" alt="SQLite" height="55" /></a>
-  <!-- Redis -->
-  <a href="https://redis.io/docs/latest" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="Redis" height="55" /></a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" height="55" /></a>
-</div>
-</td><td valign="top" width="33%">
-
-<br/>
-
-## 🛠️ Инструменты
-
-<div align="left">
-  <!-- Postman -->
-  <a href="https://learning.postman.com" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="XAML" height="55" /></a>
-  <!-- PlantUML -->
-  <a href="https://plantuml.com" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/562632a1-a9e4-44b7-b0d6-d38db3923390" alt="PlantUml" height="55" /></a>
-  <!-- Mermaid.js -->
-  <a href="https://mermaid.js.org" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/57169982?v=4" alt="Mermaid.js" height="55" /></a>
-  <!-- Qt Designer -->
-  <a href="https://doc.qt.io/qt-6.7/qtdesigner-index.html" target="_blank"><img style="margin: 10px" src="https://static.tildacdn.com/tild3766-3332-4438-b434-356232643133/787286.png" alt="Qt Designer" height="55" /></a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></a>
-</div>
-</td><td valign="top" width="33%">
-
-<br/>
-<br/>
-
-## 🥞 GitHub статистика
-
-<a href="https://github.com/MindlessMuse666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindlessMuse666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Использование языков программирования" /></a>
-
-<br/>
-
-## 💻 Codewars:
-![codewars](https://www.codewars.com/users/MindlessMuse666/badges/large)
