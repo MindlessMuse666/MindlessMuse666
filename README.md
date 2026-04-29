@@ -5,13 +5,13 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1500&color=FF69B4&background=0D1117&center=true&vCenter=true&width=400&lines=%F0%9F%91%BE+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%BB%D0%B0%D0%B4!+%F0%9F%91%BE" alt="Привет, я Влад!" />
   </tr>
     <td align="center">
-      <img src="./public/звонище-кет.jpg" alt="щебень" style="width: 325px; height: 325px;"/>
+      <img src="./public/звонище-кет.jpg" alt="щебень" style="width: 250px; height: 250px;"/>
     </td>
     <td align="center">
-      <img src="./public/щебенище-кет.jpg" alt="щебень" style="width: 325px; height: 325px;"/>
+      <img src="./public/щебенище-кет.jpg" alt="щебень" style="width: 250px; height: 250px;"/>
     </td>
     <td align="center">
-      <img src="./public/лунище-кет.jpg" alt="щебень" style="width: 325px; height: 325px;"/>
+      <img src="./public/лунище-кет.jpg" alt="щебень" style="width: 250px; height: 250px;"/>
     </td>
   </tr>
 </table>
