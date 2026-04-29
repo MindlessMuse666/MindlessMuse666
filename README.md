@@ -5,7 +5,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1500&color=FF69B4&background=0D1117&center=true&vCenter=true&width=400&lines=%F0%9F%91%BE+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%BB%D0%B0%D0%B4!+%F0%9F%91%BE" alt="Привет, я Влад!" />
   </tr>
     <td align="center">
-      <img src="./public/звонище-кет.jpg" alt="щебень" style="width: 325px; height: 325px; "/>
+      <img src="./public/звонище-кет.jpg" alt="щебень" style="width: 325px; height: 325px;"/>
     </td>
     <td align="center">
       <img src="./public/щебенище-кет.jpg" alt="щебень" style="width: 325px; height: 325px;"/>
@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=800&lines=%F0%9F%94%8D+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%7C+Fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%9A%80+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8F%97%EF%B8%8F+%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%26+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9;%F0%9F%8E%AE+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%B8%D0%B3%D1%80%D1%8B+%26+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83" alt="Обо мне"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF5733&background=0D1117&center=true&vCenter=true&width=800&lines=%F0%9F%94%8D+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%7C+Fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%9A%80+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8F%97%EF%B8%8F+%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%26+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9;%F0%9F%8E%AE+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%B8%D0%B3%D1%80%D1%8B+%26+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83" alt="Обо мне"/>
   </tr>
   <tr>
     <td align="center">👨‍💻</td>
@@ -223,7 +223,9 @@
 
 <!-- Прощание -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MindlessMuse666&style=flat-square&color=58A6FF" alt="Счётчик просмотров" height="36" />
-  <br/>
+  <div style="transform: scale(1.1); border-radius: 10px; overflow: hidden; width: fit-content; margin: 0 auto;">
+    <img src="https://komarev.com/ghpvc/?username=MindlessMuse666&style=flat-square&color=58A6FF" alt="Счетчик просмотров" height="26" />
+  </div>
+  
   <i><sub>Спасибо, что заглянул! ⭐</sub></i>
 </div>
