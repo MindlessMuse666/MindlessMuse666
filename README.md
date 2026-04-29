@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&background=0D1117&center=true&vCenter=true&width=400&lines=%F0%9F%91%BE+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%BB%D0%B0%D0%B4!+%F0%9F%91%BE" alt="Привет, я Влад!" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1500&color=FF69B4&background=0D1117&center=true&vCenter=true&width=400&lines=%F0%9F%91%BE+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%BB%D0%B0%D0%B4!+%F0%9F%91%BE" alt="Привет, я Влад!" />
   </tr>
     <td align="center">
       <img src="./public/звонище-кет.jpg" alt="щебень" style="width: 325px; height: 325px; "/>
@@ -20,12 +20,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-
 <!-- Обо мне -->
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF69B4&background=0D1117&center=true&vCenter=true&width=800&lines=%F0%9F%94%8D+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%7C+Fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%9A%80+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8F%97%EF%B8%8F+%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%26+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9;%F0%9F%8E%AE+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%B8%D0%B3%D1%80%D1%8B+%26+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83" alt="Обо мне"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=800&lines=%F0%9F%94%8D+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%7C+Fullstack-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%F0%9F%9A%80+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%F0%9F%8F%97%EF%B8%8F+%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%26+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9;%F0%9F%8E%AE+%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%B8%D0%B3%D1%80%D1%8B+%26+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83" alt="Обо мне"/>
   </tr>
   <tr>
     <td align="center">👨‍💻</td>
@@ -48,12 +47,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-
 <!-- Языки -->
 <table align="center">
   <tr>
     <td colspan="5" align="center" style="padding: 0 0 10px 0;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=DAF7A6&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%92%BB+%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="Языки" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=DAF7A6&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%92%BB+%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="Языки" />
     </td>
   </tr>
   <tr>
@@ -81,7 +79,7 @@
 <table align="center">
   <tr>
     <td colspan="5" align="center" style="padding: 0 0 10px 0;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=C70039&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%8F%97%EF%B8%8F+%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B8" alt="Фреймворки" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=C70039&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%8F%97%EF%B8%8F+%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B8" alt="Фреймворки" />
     </td>
   </tr>
     <td align="center" style="padding: 0 10px;">
@@ -108,7 +106,7 @@
 <table align="center">
   <tr>
     <td colspan="9" align="center" style="padding: 0 0 10px 0;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&background=0D1117&center=true&vCenter=true&width=300&lines=%E2%9A%99%EF%B8%8F+%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" alt="Технологии"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=00FFFF&background=0D1117&center=true&vCenter=true&width=300&lines=%E2%9A%99%EF%B8%8F+%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" alt="Технологии"/>
     </td>
   </tr>
     <td align="center" style="padding: 0 10px;">
@@ -147,7 +145,7 @@
 <table align="center">
   <tr>
     <td colspan="9" align="center" style="padding: 0 0 10px 0;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF00FF&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%97%84%EF%B8%8F+%D0%A1%D0%A3%D0%91%D0%94+%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" alt="СУБД и инструменты"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=FF00FF&background=0D1117&center=true&vCenter=true&width=300&lines=%F0%9F%97%84%EF%B8%8F+%D0%A1%D0%A3%D0%91%D0%94+%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" alt="СУБД и инструменты"/>
     </td>
   </tr>
     <td align="center" style="padding: 0 10px;">
@@ -184,12 +182,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-
 <!-- GitHub статистика -->
 <table align="center">
   <tr>
     <td colspan="9" align="center" style="padding: 0 0 10px 0;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8A2BE2&background=0D1117&center=true&vCenter=true&width=320&lines=%F0%9F%93%8A+GitHub+%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="Статистика"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=8A2BE2&background=0D1117&center=true&vCenter=true&width=320&lines=%F0%9F%93%8A+GitHub+%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="Статистика"/>
     </td>
   </tr>
   <tr>
@@ -223,7 +220,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
-
 
 <!-- Прощание -->
 <div align="center">
