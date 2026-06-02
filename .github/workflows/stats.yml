@@ -1,4 +1,4 @@
-name: Generate arcade animation
+name: Generate stats card
 
 on:
   schedule: # execute every 12 hours
@@ -15,20 +15,22 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: generate stats.svg
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'bomberman'
+          card: stats
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=%D0%B3%D0%B8%D1%82%D1%85%D0%B0%D0%B1%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%91
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
 
-      - name: push bomberman-contribution-graph.svg to the output branch
+      - name: push stats.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: pacman-output
+          target_branch: stats-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
