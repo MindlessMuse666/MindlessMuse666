@@ -165,7 +165,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MindlessMuse666/MindlessMuse666/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <div align="center">
   <img src="https://count.getloli.com/@:MindlessMuse666?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
