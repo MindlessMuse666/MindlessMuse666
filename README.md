@@ -1,3 +1,4 @@
+<h1 align="center"><i>~привет, видел тебя сегодня в колледже ᄽ●・●ᄿ</i></h1>
 <div align="center">
   <table align="center">
     <tr>
@@ -13,8 +14,6 @@
     </tr>
   </table>
 </div>
-
-<h1 align="center"><i>~привет, видел тебя сегодня в колледже ᄽ●・●ᄿ</i></h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -50,8 +49,6 @@
   </table>
 </div>
 
-<br/>
-
 <!-- Фреймворки -->
 <div align="center">
   <h3><i>~фреймворки (。・ω・。)</i></h3>
@@ -73,8 +70,6 @@
     </td>
   </table>
 </div>
-
-<br/>
 
 <!-- Технологии -->
 <div align="center">
@@ -110,11 +105,9 @@
   </table>
 </div>
 
-<br/>
-
 <!-- СУБД и инструменты -->
 <div align="center">
-  <h3><i>~субд и инструменты ʕ≧ᴥ≦ʔ</i></h3>
+  <h3><i>~СУБД и инструменты ʕ≧ᴥ≦ʔ</i></h3>
   <table align="center">
     <td align="center" style="padding: 0 10px;">
       <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
@@ -172,7 +165,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MindlessMuse666/MindlessMuse666/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
+---
+
 <div align="center">
-  <h3><i>сток ミクшников уже посмотрело (〃￣ω￣〃ゞ</i></h3>
+  <sub><h3><i>~сток ミクшников уже посмотрело (〃￣ω￣〃ゞ</i></h4></sub>
   <img src="https://count.getloli.com/@:MindlessMuse666?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
