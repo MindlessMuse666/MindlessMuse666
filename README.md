@@ -168,6 +168,6 @@
 ---
 
 <div align="center">
-  <sub><h3><i>~сток ミクшников уже посмотрело (〃￣ω￣〃ゞ</i></h4></sub>
   <img src="https://count.getloli.com/@:MindlessMuse666?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <sub><h3><i>~сток ミクшников уже посмотрело (〃￣ω￣〃ゞ</i></h4></sub>
 </div>
