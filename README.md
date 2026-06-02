@@ -165,7 +165,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MindlessMuse666/MindlessMuse666/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
----
+<div align="center">
+  <h3><i>~бомбочки прокидывают щебенёнки... (╯‵□′)╯Boom！•••*～●</i></h3>
+</div>
 
 <div align="center">
   <img src="https://count.getloli.com/@:MindlessMuse666?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
