@@ -1,4 +1,4 @@
-<h1 align="center"><i>~привет, <ДАННЫЕ_УДАЛЕНЫ> ᄽ●・●ᄿ</i></h1>
+<h1 align="center"><i>~<ДАННЫЕ_УДАЛЕНЫ> ᄽ●・●ᄿ</i></h1>
 <div align="center">
   <table align="center">
     <tr>
