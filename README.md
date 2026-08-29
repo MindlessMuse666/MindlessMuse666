@@ -3,13 +3,13 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="./public/звонище-кет.jpg" alt="щебень" style="width: 250px; height: 250px;"/>
+        <img src="./public/звонище-кет.jpg" alt="звонище-кет.jpg" style="width: 250px; height: 250px;"/>
       </td>
       <td align="center">
-        <img src="./public/щебенище-кет.jpg" alt="щебень" style="width: 250px; height: 250px;"/>
+        <img src="./public/щебенище-кет.jpg" alt="щебенище-кет.jpg" style="width: 250px; height: 250px;"/>
       </td>
       <td align="center">
-        <img src="./public/лунище-кет.jpg" alt="щебень" style="width: 250px; height: 250px;"/>
+        <img src="./public/лунище-кет.jpg" alt="лунище-кет.jpg" style="width: 250px; height: 250px;"/>
       </td>
     </tr>
   </table>
@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<h2 align="center"><i>~стек (＝⌒▽⌒＝)</i></h2>
+<h2 align="center"><i>~<СТЕК> (＝⌒▽⌒＝)</i></h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -27,109 +27,106 @@
 
 <!-- Языки -->
 <div align="center">
-  <h3><i>~языки (ღ˘⌣˘ღ)</i></h3>
+  <h3><i>~<ЯЗЫКИ> (ღ˘⌣˘ღ)</i></h3>
   <table align="center">
     <tr>
       <td align="center" style="padding: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go"/>
+        <img src="./public/icons/go.png" height="54" alt="Go"/>
       </td>
       <td align="center" style="padding: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+        <img src="./public/icons/python.png" height="54" alt="Python"/>
       </td>
       <td align="center" style="padding: 0 10px;">
-        <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
+        <img src="./public/icons/javascript.png" height="54" alt="JavaScript"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/typescript.png" height="54" alt="TypeScript"/>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Фреймворки -->
+<!-- СУБД -->
 <div align="center">
-  <h3><i>~фреймворки (。・ω・。)</i></h3>
+  <h3><i>~<БАЗЫ> (｡･ω･｡)ﾉ♡</i></h3>
   <table align="center">
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=qt" height="48" alt="Qt"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue"/>
-    </td>
+    <tr>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/postgresql.png" height="54" alt="PostgreSQL"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/clickhouse.png" height="54" alt="ClickHouse"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/sqlite.png" height="54" alt="SQLite"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/redis.png" height="54" alt="Redis"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/prometheus.png" height="54" alt="Prometheus"/>
+      </td>
+    </tr>
   </table>
 </div>
 
-<!-- Технологии -->
+<!-- Инструменты -->
 <div align="center">
-  <h3><i>~технологии (｡･ω･｡)ﾉ♡</i></h3>
+  <h3><i>~<ВКУСНЯШКИ> ʕ≧ᴥ≦ʔ</i></h3>
   <table align="center">
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=kafka" height="48" alt="Kafka"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" height="48" alt="RabbitMQ"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=godot" height="48" alt="Godot"/>
-    </td>
+    <tr>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/grpc.png" height="54" alt="gRPC"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/docker.png" height="54" alt="Docker"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/kubernetes.png" height="54" alt="Kubernetes"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/kafka.png" height="54" alt="Kafka"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/rabbitmq.png" height="54" alt="RabbitMQ"/>
+      </td>
+    </tr>
+    </tr>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/grafana.png" height="54" alt="Grafana"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/graylog.png" height="54" alt="Graylog"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/elasticsearch.png" height="54" alt="Elasticsearch"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/swagger.png" height="54" alt="Swagger"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/postman.png" height="54" alt="Postman"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/confluence.png" height="54" alt="Confluence"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/jira.png" height="54" alt="Jira"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/markdown.png" height="54" alt="Markdown"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/godot_engine.png" height="54" alt="Godot Engine"/>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <img src="./public/icons/linux.png" height="54" alt="Linux"/>
+      </td>
+    </tr>
   </table>
 </div>
-
-<!-- СУБД и инструменты -->
-<div align="center">
-  <h3><i>~СУБД и инструменты ʕ≧ᴥ≦ʔ</i></h3>
-  <table align="center">
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://github.com/user-attachments/assets/562632a1-a9e4-44b7-b0d6-d38db3923390" height="48" alt="PlantUML" style="vertical-align: middle;"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://avatars.githubusercontent.com/u/57169982?v=4" height="48" alt="Mermaid" style="vertical-align: middle;"/>
-    </td>
-    <td align="center" style="padding: 0 10px;">
-      <img src="https://static.tildacdn.com/tild3766-3332-4438-b434-356232643133/787286.png" height="48" alt="Qt Designer" style="vertical-align: middle;"/>
-    </td>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MindlessMuse666/MindlessMuse666/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MindlessMuse666/MindlessMuse666/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MindlessMuse666/MindlessMuse666/pacman-output/bomberman-contribution-graph.svg">
-</picture>
 
 <p align="center">
   </br>
@@ -138,5 +135,4 @@
 
 <div align="center">
   <img src="https://count.getloli.com/@:MindlessMuse666?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-  <sub><h3><i>...просмотревших ミクшников (〃￣ω￣〃ゞ</i></h4></sub>
 </div>
